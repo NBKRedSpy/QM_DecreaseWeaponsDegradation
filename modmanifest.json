@@ -1,0 +1,7 @@
+{
+  "UniqueModName": "NBKRedSpy_DecreaseWeaponsDegradation",
+  "Assemblies": [
+    "DecreaseWeaponsDegradation.dll"
+  ],
+  "Dependencies": []
+}
