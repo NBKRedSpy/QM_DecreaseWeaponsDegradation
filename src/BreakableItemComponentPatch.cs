@@ -14,6 +14,7 @@ namespace DecreaseWeaponsDegradation
     {
         private static bool Prefix(BreakableItemComponent __instance, ref int val)
         {
+            //WARNING - This is a full copy and replace of the BreakableItemComponent.Break function.
 
             if (!__instance.Unbreakable)
             {
