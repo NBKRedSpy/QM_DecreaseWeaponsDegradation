@@ -9,7 +9,7 @@ This is the Steam Workshop version of Elija's "Decrease Weapons Degradation" mod
 
 [h1]Configuration[/h1]
 
-The configuration file will be created on the first game run and can be found at [i]%AppData%\..\LocalLow\Magnum Scriptum Ltd\Quasimorph\DecreaseWeaponsDegradation\config.json[/i].
+The configuration file will be created on the first game run and can be found at [i]%AppData%\..\LocalLow\Magnum Scriptum Ltd\Quasimorph_ModConfigs\DecreaseWeaponsDegradation\config.json[/i].
 [table]
 [tr]
 [td]Name
