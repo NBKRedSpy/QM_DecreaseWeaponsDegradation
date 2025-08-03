@@ -19,4 +19,4 @@ The configuration file will be created on the first game run and can be found at
 |WeaponsDegradationMultiplier|.5|The multiplier applied to durability loss.  Ex:  .25 would reduce the durability loss by 1/4|
 
 # Source Code
-Source code is available on GitHub at https://github.com/NBKRedSpy/DecreaseWeaponsDegradation
+Source code is available on GitHub at https://github.com/NBKRedSpy/QM_DecreaseWeaponsDegradation
