@@ -1,7 +1,5 @@
 [h1]Quasimorph Decrease Weapons Degradation[/h1]
 
-This repo is temporary until the Steam Version can be worked out with the original author.  It may be deleted.
-
 
 Reduces the durability loss of weapons by 50%.  The reduction multiplier can be set in the mod's configuration file.
 
